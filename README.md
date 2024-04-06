@@ -3,7 +3,7 @@ Welcome to my WordPress Plugins Collection
 Introduction
 -------------
 
-This is a collection of my WordPress Plugins created by me. I've created various plugins for Event registration, User enrolment, Booking and Appointment Forms. These plugins use jQuery Ajax and short-codes to embed forms in a Page. WordPress Settings page is used to create new Events, Event date, specify maximum seats available, etc. Users can then enrol for these Events through the User Enrolment Form embedded in a Page using short-code. User enrolments can be restricted through maximum seats available for the Event.
+This is a collection of my WordPress Plugins created by me. I've created various plugins for Event registration, User enrolment, Booking and Appointment Forms. These plugins use jQuery Ajax and short-codes to embed forms in a Page. WordPress Plugin Settings page is used to create new Events, Event date, specify maximum seats available, etc. Users can then enrol for these Events through the User Enrolment Form embedded in a Page using short-code. User enrolments can be restricted through maximum seats available for the Event.
 
 > **Features:**
 
